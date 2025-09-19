@@ -1,0 +1,1057 @@
+Cleaning Log - 20250820_174121
+============================================================
+
+File: moduleoverviews.txt
+Original lines: 508
+Cleaned lines: 226
+Sample changes (up to 5):
+- Before: '    Credits: 10'
+  After:  'Credits: 10'
+- Before: '    Year: 0'
+  After:  'Year: 0'
+- Before: '    Semester: 1'
+  After:  'Semester: 1'
+- Before: '    Pre-requisites: None, but a grade C in the GCSE examination in Chemistry or Integrated Science would be advantageous'
+  After:  'Pre-requisites: None, but a grade C in the GCSE examination in Chemistry or Integrated Science would be advantageous'
+- Before: '    Assessment: In-course Assessment (Assessment of laboratory work) 20%, Open Book exam (2 hours) 80%'
+  After:  'Assessment: In-course Assessment (Assessment of laboratory work) 20%, Open Book exam (2 hours) 80%'
+
+--------------------------------------------------
+
+File: CHEM0811.html
+Original lines: 1166
+Cleaned lines: 152
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM0821.html
+Original lines: 1132
+Cleaned lines: 146
+Sample changes (up to 5):
+- Before: '70 hours:  including completion of workshop material, guided reading and revision.'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM0831.html
+Original lines: 1159
+Cleaned lines: 148
+Sample changes (up to 5):
+- Before: 'CHEM0831 is one of three foundation courses in chemistry which can be taken by itself or with CHEM0811 and CHEM0821 in any combination.\xa0Although a GCSE in science would certainly be advantageous, no prior knowledge of the subject is assumed. '
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM0841.html
+Original lines: 1174
+Cleaned lines: 166
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM1102.html
+Original lines: 1105
+Cleaned lines: 156
+Sample changes (up to 5):
+- Before: '2.0 Hrs  Mins'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM1151.html
+Original lines: 1129
+Cleaned lines: 160
+Sample changes (up to 5):
+- Before: '2.0 Hrs  Mins'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM1204.html
+Original lines: 1117
+Cleaned lines: 152
+Sample changes (up to 5):
+- Before: '2.0 Hrs  Mins'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM1205.html
+Original lines: 1116
+Cleaned lines: 152
+Sample changes (up to 5):
+- Before: '2.0 Hrs  Mins'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM1302.html
+Original lines: 1161
+Cleaned lines: 170
+Sample changes (up to 5):
+- Before: '4. Use knowledge of trends in inorganic chemistry to\u202fdescribe\u202fstructure, properties and reactivities of inorganic compounds and apply this to make predictions about simple inorganic compounds (C1) '
+  After:  <removed>
+- Before: '2.0 Hrs  Mins'
+  After:  <removed>
+- Before: '2.0 Hrs  Mins'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+
+--------------------------------------------------
+
+File: CHEM1303.html
+Original lines: 1193
+Cleaned lines: 175
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM1402.html
+Original lines: 1142
+Cleaned lines: 165
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM1403.html
+Original lines: 1136
+Cleaned lines: 164
+Sample changes (up to 5):
+- Before: '1.\tIntroduction to the chemistry laboratory and equipment and to safe working practices'
+  After:  <removed>
+- Before: '2.\ta selection of experiments in the synthetic and analytical teaching laboratory appropriate to level 1 Chemistry and to the general development of good laboratory technique'
+  After:  <removed>
+- Before: '3.\ta selection of experiments in the physical and measurement teaching laboratory appropriate to level 1 Chemistry and to the general development of good laboratory technique'
+  After:  <removed>
+- Before: '4.\tinstruction and exercises to develop appropriate IT, mathematical and data analysis skills including python coding.'
+  After:  <removed>
+- Before: '5.\tintroduction to record keeping, the presentation of experimental results and academic and scientific integrity'
+  After:  <removed>
+
+--------------------------------------------------
+
+File: CHEM1465.html
+Original lines: 1103
+Cleaned lines: 147
+Sample changes (up to 5):
+- Before: '•\tsafety in the laboratory, COSHH regulations and good laboratory practice,'
+  After:  <removed>
+- Before: '•\tthe preparation and characterisation of synthetic materials, and the use of analytical techniques to investigate them,'
+  After:  <removed>
+- Before: '•\ta range of physical measurements and appropriate data analysis; '
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+
+--------------------------------------------------
+
+File: CHEM2112.html
+Original lines: 1056
+Cleaned lines: 144
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2131.html
+Original lines: 1171
+Cleaned lines: 158
+Sample changes (up to 5):
+- Before: '2.0 Hrs  Mins'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM2192.html
+Original lines: 1033
+Cleaned lines: 138
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2212.html
+Original lines: 1038
+Cleaned lines: 143
+Sample changes (up to 5):
+- Before: 'This module builds the  knowledge of organic and inorganic chemistry and focusses on the structure, bonding and reactivity of organometallic compounds of both main group metals and transition metals. It includes the role of main group organometallic compounds as synthetic reagents, and the crucial role of transition metal complexes as catalysts for a variety of coupling and metathesis reactions which are the backbone of modern organic synthesis. '
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM2242.html
+Original lines: 1028
+Cleaned lines: 134
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2293.html
+Original lines: 1029
+Cleaned lines: 134
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2321.html
+Original lines: 1038
+Cleaned lines: 141
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2331.html
+Original lines: 1039
+Cleaned lines: 143
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2342.html
+Original lines: 1028
+Cleaned lines: 138
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2371.html
+Original lines: 1096
+Cleaned lines: 159
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2372.html
+Original lines: 1071
+Cleaned lines: 151
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2402.html
+Original lines: 1095
+Cleaned lines: 156
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2403.html
+Original lines: 1062
+Cleaned lines: 146
+Sample changes (up to 5):
+- Before: 'This module will provide students with a deeper understanding of practical and computational chemistry as well as broader skill transferable skills.\u202fStudents will gain further experience of relevant modern laboratory practice, including the recording and analysis of physical measurements, the synthesis and analysis of compounds and the use of advanced mathematics to aid data analysis with relevant chemical applications. '
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM2415.html
+Original lines: 1137
+Cleaned lines: 153
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2425.html
+Original lines: 1208
+Cleaned lines: 175
+Sample changes (up to 5):
+- Before: '                            The practical component of the  experiments incorporates the following themes, and students completing the module will be able to demonstrate:'
+  After:  <removed>
+- Before: '(i) a knowledge of current techniques and methodologies appropriate to synthetic  and physical chemistry, with hands on practical experience of some of these'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+
+--------------------------------------------------
+
+File: CHEM2452.html
+Original lines: 1094
+Cleaned lines: 156
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2491.html
+Original lines: 1076
+Cleaned lines: 154
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM2492.html
+Original lines: 1073
+Cleaned lines: 152
+Sample changes (up to 5):
+- Before: 'This module will provide students with a deeper understanding of some specialised areas within chemistry, including for example polymer chemistry, molecular symmetry and spectroscopy, and solution equilibria.\u202fStudents will gain further experience of relevant modern laboratory practice, including the recording and analysis of physical measurements. '
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM2690.html
+Original lines: 1091
+Cleaned lines: 142
+Sample changes (up to 5):
+- Before: '- the preparation and  characterisation of a range of inorganic compounds, and the use of spectroscopic techniques; '
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM3126.html
+Original lines: 1184
+Cleaned lines: 161
+Sample changes (up to 5):
+- Before: 'The module will enable students to understand the value of functional organic molecules, and how the selective synthesis of such molecules may be achieved.  Students will work in groups to research and understand the value of specific functional organic molecules, and to communicate their finding effectively to their peers.  The module will cover strategies, methods and chemical technologies that can be deployed to address specific challenges associated with the synthesis of functional organic molecules. '
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM3136.html
+Original lines: 1089
+Cleaned lines: 146
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3146.html
+Original lines: 1209
+Cleaned lines: 172
+Sample changes (up to 5):
+- Before: '(1) be familiar with the drug discovery and development process, including  preclinical development and clinical trials.'
+  After:  <removed>
+- Before: '2.0 Hrs  Mins'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+
+--------------------------------------------------
+
+File: CHEM3185.html
+Original lines: 1145
+Cleaned lines: 150
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3211.html
+Original lines: 1103
+Cleaned lines: 146
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3212.html
+Original lines: 1086
+Cleaned lines: 143
+Sample changes (up to 5):
+- Before: 'The explosion of information means that many jobs often require people to handle large datasets efficiently and quickly, yet graduates often don’t have these core skills.  In science new insights often involve taking lots of data and bringing it together in a way that illuminates the problem.  In this course you will develop the core skills to efficiently handle large datasets.  Using examples from across Chemistry you will see how to efficiently extract data using simple programming in python and reach meaningful conclusions. Online tools will help you acquire key skills while weekly seminars will let you explore real examples, enabling you use these skills to answer scientific questions. '
+  After:  <removed>
+- Before: 'Self study with self-taught examples and tests.  These tools will then support the exercises in the workshops'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+
+--------------------------------------------------
+
+File: CHEM3216.html
+Original lines: 1188
+Cleaned lines: 173
+Sample changes (up to 5):
+- Before: '2.0 Hrs  Mins'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM3226.html
+Original lines: 1187
+Cleaned lines: 158
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3281.html
+Original lines: 1204
+Cleaned lines: 167
+Sample changes (up to 5):
+- Before: '1.0 Hrs  Mins'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM3282.html
+Original lines: 1210
+Cleaned lines: 169
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3291.html
+Original lines: 1116
+Cleaned lines: 146
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3292.html
+Original lines: 1113
+Cleaned lines: 147
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3302.html
+Original lines: 1089
+Cleaned lines: 136
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3415.html
+Original lines: 1091
+Cleaned lines: 141
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3417.html
+Original lines: 1097
+Cleaned lines: 159
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3420.html
+Original lines: 1073
+Cleaned lines: 139
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3424.html
+Original lines: 1196
+Cleaned lines: 166
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3425.html
+Original lines: 1234
+Cleaned lines: 182
+Sample changes (up to 5):
+- Before: '                            The practical component of the  experiments incorporates the following themes, and students completing the module will be able to demonstrate:'
+  After:  <removed>
+- Before: '(i) a knowledge of current techniques and methodologies appropriate to synthetic  and physical chemistry, with hands on practical experience of some of these'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+
+--------------------------------------------------
+
+File: CHEM3437.html
+Original lines: 1137
+Cleaned lines: 156
+Sample changes (up to 5):
+- Before: '                    On completion of this module, students should be able to carry out a literature search in a defined area of chemistry or physics, using books, reviews and  journals as source material, and to write a developed and coherent dissertation which highlights the continuing developments in the chosen  area.'
+  After:  <removed>
+- Before: 'The project will be allocated from a list of available topics which are appropriate to the overall scheme of study, taking into account the  preferences of the student, and will be supervised by a member of staff.   '
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+
+--------------------------------------------------
+
+File: CHEM3455.html
+Original lines: 1095
+Cleaned lines: 158
+Sample changes (up to 5):
+- Before: '                            The practical component of the  experiments incorporates the following themes, and students completing the module will be able to demonstrate:'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM3480.html
+Original lines: 1217
+Cleaned lines: 171
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3621.html
+Original lines: 1172
+Cleaned lines: 164
+Sample changes (up to 5):
+- Before: '-\tTo explore an ethics topic in much greater depth than that offered in CHEM2200'
+  After:  <removed>
+- Before: '-\tTo extend knowledge and understanding of ethical issues in science'
+  After:  <removed>
+- Before: '-\tTo develop your own, reasoned position on an issue in the ethics of contemporary science'
+  After:  <removed>
+- Before: '-\tTo learn how ethics influences the everyday operation of science'
+  After:  <removed>
+- Before: '-\tTo develop an awareness of the views of others, including an impartial  appraisal of their strengths and weaknesses'
+  After:  <removed>
+
+--------------------------------------------------
+
+File: CHEM3650.html
+Original lines: 1167
+Cleaned lines: 166
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM3666.html
+Original lines: 1210
+Cleaned lines: 170
+Sample changes (up to 5):
+- Before: 'A written report (between 3,000 - 3,500 words) based on the Special School Project.  This should include copies of all teaching resources and materials produced for the School.'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM3720.html
+Original lines: 1057
+Cleaned lines: 133
+Sample changes (up to 5):
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+- Before: ' home page'
+  After:  'home page'
+
+--------------------------------------------------
+
+File: CHEM8101.html
+Original lines: 1130
+Cleaned lines: 147
+Sample changes (up to 5):
+- Before: 'Project report to be submitted for assessment at the end of the placement. The report may be marked on-site, rather than in Leeds, if required for confidentiality reasons. A non-confidential report  must be submitted to the School which is second marked and can be viewed by the external examiners. An assessment proforma will also be completed by the company supervisor at the same time. The presentation will be given on site or via online meeting. Written coursework to be undertaken during the placement is treated under a separate module, CHEM3302.'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+- Before: '                            Module and Programme Catalogue'
+  After:  'Module and Programme Catalogue'
+
+--------------------------------------------------
+
+File: CHEM8501.html
+Original lines: 1096
+Cleaned lines: 138
+Sample changes (up to 5):
+- Before: '                            There is no set syllabus for this experiential workplace module.  The syllabus will be agreed between the student, academic and industrial supervisor.  For example, typical placements may include those within the chemical industry, IT or Finance.'
+  After:  <removed>
+- Before: 'Project report to be submitted for assessment at the end of the placement. The report may be marked on-site, rather than in Leeds, if required for confidentiality reasons. A non-confidential report  must be submitted to the School which is second marked and can be viewed by the external examiners. An assessment proforma will also be completed by the company supervisor at the same time. The presentation will be given on site or online. The placement year will be awarded on a pass / fail basis.'
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+
+--------------------------------------------------
+
+File: CHEM9302.html
+Original lines: 1089
+Cleaned lines: 144
+Sample changes (up to 5):
+- Before: 'CHEM9301 European Year Abroad -  been merged into the module'
+  After:  <removed>
+- Before: "Based on:  i) a pass/fail mark obtained under the host institution's assessment system to equate at least 50 credits (normally 60 credits) as specified by the European Credit Transfer Scheme (ECTS) (i.e. the equivalent of 100-120 Leeds credits); ii) satisfactory reports from the academic supervisor at the host insitution."
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+
+--------------------------------------------------
+
+File: CHEM9304.html
+Original lines: 1089
+Cleaned lines: 144
+Sample changes (up to 5):
+- Before: 'CHEM9301 European Year Abroad -  been merged into the module'
+  After:  <removed>
+- Before: "Based on:  i) a pass/fail mark obtained under the host institution's assessment system to equate at least 50 credits (normally 60 credits) as specified by the European Credit Transfer Scheme (ECTS) (i.e. the equivalent of 100-120 Leeds credits); ii) satisfactory reports from the academic supervisor at the host insitution."
+  After:  <removed>
+- Before: '                                Students'
+  After:  'Students'
+- Before: '                                Staff'
+  After:  'Staff'
+- Before: '                                Faculties'
+  After:  'Faculties'
+
+--------------------------------------------------
+

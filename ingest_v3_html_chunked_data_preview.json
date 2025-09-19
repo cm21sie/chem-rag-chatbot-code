@@ -1,0 +1,42 @@
+[
+    {
+        "chunk_id": 1,
+        "text_snippet": "# moduleoverviews.txt\nChemistry Undergraduate Modules 2025/26\nUniversity of Leed... (Module: N/A, URL: N/A)"
+    },
+    {
+        "chunk_id": 2,
+        "text_snippet": "---\n\nFoundation Year Modules:\n\n- CHEM0811: Elementary General and Inorganic Chem... (Module: CHEM0811, URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/0811/)"
+    },
+    {
+        "chunk_id": 3,
+        "text_snippet": "- CHEM0821: Elementary Physical Chemistry (IFY)\n    Credits: 10\n    Year: 0\n    ... (Module: CHEM0821, URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/0821/202526)"
+    },
+    {
+        "chunk_id": 4,
+        "text_snippet": "- CHEM0831: Elementary Organic Chemistry (IFY)\n    Credits: 10\n    Year: 0\n    S... (Module: CHEM0831, URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/0831/202526)"
+    },
+    {
+        "chunk_id": 5,
+        "text_snippet": "- CHEM0841: Elementary Analytical Chemistry and Chemistry Project\n    Credits: 1... (Module: CHEM0841, URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/0841/202526)"
+    },
+    {
+        "chunk_id": 6,
+        "text_snippet": "Year 1 Modules:\n\n- CHEM1102: Chemistry in Action: Atoms, Molecules, Matter\n    C... (Module: CHEM1102, URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1102/202526)"
+    },
+    {
+        "chunk_id": 7,
+        "text_snippet": "- CHEM1151: Chemistry for Biochemists\n    Credits: 10\n    Year: 1\n    Semester: ... (Module: CHEM1151, URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1151/202526)"
+    },
+    {
+        "chunk_id": 8,
+        "text_snippet": "- CHEM1204: Fundamental Organic Chemistry for Biology & Synthesis\n    Credits: 1... (Module: CHEM1204, URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1204/)"
+    },
+    {
+        "chunk_id": 9,
+        "text_snippet": "- CHEM1205: Chemistry of the Material World\n    Credits: 10\n    Year: 1\n    Seme... (Module: CHEM1205, URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1205/202526)"
+    },
+    {
+        "chunk_id": 10,
+        "text_snippet": "- CHEM1302: Introduction to Modern Chemistry\n    Credits: 20\n    Year: 1\n    Sem... (Module: CHEM1302, URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1302/202526)"
+    }
+]

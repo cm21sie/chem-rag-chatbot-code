@@ -1,0 +1,146 @@
+[
+  {
+    "question": "What is the credit value of CHEM2112?",
+    "answer": "Answer: 10 credits.\nEvidence:\n- \"Credits: 10\" (source: CHEM2112.html | CHEM2112)\n",
+    "retrieved_docs": [
+      {
+        "source_file": "CHEM2112.html",
+        "module_code": "CHEM2112",
+        "doc_id": "doc_0075",
+        "chunk_id": 0
+      },
+      {
+        "source_file": "CHEM2112.html",
+        "module_code": "CHEM2112",
+        "doc_id": "doc_0075",
+        "chunk_id": 1
+      },
+      {
+        "source_file": "CHEM2112.html",
+        "module_code": "CHEM2112",
+        "doc_id": "doc_0075",
+        "chunk_id": 2
+      }
+    ]
+  },
+  {
+    "question": "How many second-year modules are available?",
+    "answer": "Answer: I don't know.\nEvidence:\n- There are no lines in the context that state the number of second-year modules available.\n- The context only provides information about the CHEM2242 module.\n",
+    "retrieved_docs": [
+      {
+        "source_file": "CHEM2242.html",
+        "module_code": "CHEM2242",
+        "doc_id": "doc_0079",
+        "chunk_id": 3
+      },
+      {
+        "source_file": "CHEM3211.html",
+        "module_code": "CHEM3211",
+        "doc_id": "doc_0098",
+        "chunk_id": 14
+      },
+      {
+        "source_file": "CHEM2242.html",
+        "module_code": "CHEM2242",
+        "doc_id": "doc_0079",
+        "chunk_id": 9
+      }
+    ]
+  },
+  {
+    "question": "Are there any first-year modules assessed by 100% coursework?",
+    "answer": "Answer: I don't know.\nEvidence:\n- \"Assessment: Report (Written Report, 2 pages of A4) 15%, Written Work (Submission of a satisfactory attempt at written coursework (exam-type questions) half way through the module is compulsory in order to pass the module) 0%, Open Book exam (2 hours) 85%\" (source: CHEM2131.html | CHEM2131)",
+    "retrieved_docs": [
+      {
+        "source_file": "CHEM1151.html",
+        "module_code": "CHEM1151",
+        "doc_id": "doc_0067",
+        "chunk_id": 16
+      },
+      {
+        "source_file": "CHEM2131.html",
+        "module_code": "CHEM2131",
+        "doc_id": "doc_0076",
+        "chunk_id": 3
+      },
+      {
+        "source_file": "moduleoverviews.txt",
+        "module_code": "CHEM3146",
+        "doc_id": "doc_0034",
+        "chunk_id": 0
+      }
+    ]
+  },
+  {
+    "question": "Summarise what topics are covered across all first-year chemistry modules.",
+    "answer": "Answer: The topics covered in this module include infra-red and Raman spectroscopy, polymer chemistry, and solution equilibria.\n\nEvidence:\n- \"1- Infra-red and Raman spectroscopy: molecular symmetry and allowed transitions\" (source: CHEM1102.html | CHEM1102)\n- \"2- Polymer chemistry: ionic and free-radical polymerisation\" (source: CHEM1102.html | CHEM1102)",
+    "retrieved_docs": [
+      {
+        "source_file": "CHEM1102.html",
+        "module_code": "CHEM1102",
+        "doc_id": "doc_0066",
+        "chunk_id": 3
+      },
+      {
+        "source_file": "CHEM1402.html",
+        "module_code": "CHEM1402",
+        "doc_id": "doc_0072",
+        "chunk_id": 17
+      },
+      {
+        "source_file": "CHEM2293.html",
+        "module_code": "CHEM2293",
+        "doc_id": "doc_0080",
+        "chunk_id": 9
+      }
+    ]
+  },
+  {
+    "question": "Are there any modules specifically about nanotechnology?",
+    "answer": "Answer: I don't know.\nEvidence:\n- \"Module replaces (4) instruction and exercises to develop appropriate IT, mathematical and data analysis skills\" (source: CHEM1102.html | CHEM1102)\n- \"Total hours (100hr per 10 credits) 200\" (source: CHEM1102.html | CHEM1102)",
+    "retrieved_docs": [
+      {
+        "source_file": "CHEM1102.html",
+        "module_code": "CHEM1102",
+        "doc_id": "doc_0066",
+        "chunk_id": 3
+      },
+      {
+        "source_file": "CHEM1402.html",
+        "module_code": "CHEM1402",
+        "doc_id": "doc_0072",
+        "chunk_id": 17
+      },
+      {
+        "source_file": "CHEM3211.html",
+        "module_code": "CHEM3211",
+        "doc_id": "doc_0098",
+        "chunk_id": 14
+      }
+    ]
+  },
+  {
+    "question": "How do you know which modules are second-year modules?",
+    "answer": "Answer: I don't know.\nEvidence:\n- There is no information about the year level of this module.\n- \"This module is not approved as a discovery module\" (source: CHEM0831.html | CHEM0831)",
+    "retrieved_docs": [
+      {
+        "source_file": "CHEM0831.html",
+        "module_code": "CHEM0831",
+        "doc_id": "doc_0064",
+        "chunk_id": 3
+      },
+      {
+        "source_file": "CHEM3211.html",
+        "module_code": "CHEM3211",
+        "doc_id": "doc_0098",
+        "chunk_id": 14
+      },
+      {
+        "source_file": "CHEM1402.html",
+        "module_code": "CHEM1402",
+        "doc_id": "doc_0072",
+        "chunk_id": 17
+      }
+    ]
+  }
+]
